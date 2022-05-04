@@ -5,7 +5,8 @@
   <img src="/images/ios.png" alt="ios" width="400"/>
 </p>
 
-react native를 처음 배우고 간단히 인스타그램 피드를 따라 만들어 봤습니다.
+☝️ react native를 처음 배우고 간단히 인스타그램 피드를 따라 만들어 봤습니다.
+✌️ faker와 unsplash api를 사용해서 랜덤 프로필을 생성하고, React-Native로 프론트 개발을 했습니다!
 
 ## Available Scripts
 ### `npm start`
